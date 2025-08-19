@@ -1,0 +1,133 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Handa"
+    given-names: "Shinya"
+    email: "your.email@example.com"
+    affiliation: "Educational Innovation and Transformative Learning Specialist"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Inquiry Methodology Framework: Transformative Question-Based Learning for AI Age Adaptation"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2025-08-19
+url: "https://github.com/hand-shinya/inquiry-methodology-framework"
+repository-code: "https://github.com/hand-shinya/inquiry-methodology-framework"
+license: MIT
+abstract: >-
+  The Inquiry Methodology Framework represents a systematic approach to personal, 
+  organizational, and societal transformation through structured questioning techniques. 
+  This methodology bridges the gap between theoretical understanding and practical 
+  implementation, providing concrete tools for applying advanced thinking frameworks 
+  in real-world contexts. Building upon AI-Augmented Dialectics Theory (AADT) and 
+  the Comprehensive Intellectual Ownership Paradigm (CIOP), this framework offers 
+  practical pathways for cognitive evolution and institutional transformation in the AI age.
+keywords:
+  - "Transformative Learning"
+  - "Question-Based Learning"
+  - "Inquiry Methodology"
+  - "Educational Innovation"
+  - "Cognitive Development"
+  - "Critical Thinking"
+  - "Perspective Taking"
+  - "Learning Pathway Design"
+  - "Adult Learning Theory"
+  - "Constructivist Learning"
+  - "Socratic Dialogue"
+  - "Experiential Learning"
+  - "Organizational Learning"
+  - "Personal Development"
+  - "AI Age Education"
+references:
+  - type: software
+    title: "AI-Augmented Dialectics Theory: Epistemological Revolution in Human-AI Co-Evolution"
+    authors:
+      - family-names: "Handa"
+        given-names: "Shinya"
+    year: 2025
+    url: "https://github.com/hand-shinya/ai-augmented-dialectics-theory"
+    notes: "Cognitive and epistemological foundation for advanced thinking frameworks"
+  - type: software
+    title: "Comprehensive Intellectual Ownership Paradigm: Redefining Knowledge Property in the Age of Artificial Intelligence"
+    authors:
+      - family-names: "Handa"
+        given-names: "Shinya"
+    year: 2025
+    url: "https://github.com/hand-shinya/comprehensive-intellectual-ownership-paradigm"
+    notes: "Social institution design framework complemented by practical implementation methodology"
+  - type: book
+    title: "Transformative Learning: Theory to Practice"
+    authors:
+      - family-names: "Cranton"
+        given-names: "Patricia"
+    year: 1994
+    publisher: "Jossey-Bass"
+    notes: "Foundation for adult transformative learning theory"
+  - type: article
+    title: "A Guide to Transformative Learning Theory"
+    authors:
+      - family-names: "Mezirow"
+        given-names: "Jack"
+    year: 1991
+    journal: "Adult Education Quarterly"
+    notes: "Theoretical foundation for perspective transformation through critical reflection"
+  - type: book
+    title: "The Art of Powerful Questions: Catalyzing Insight, Innovation, and Action"
+    authors:
+      - family-names: "Vogt"
+        given-names: "Eric"
+      - family-names: "Brown"
+        given-names: "Juanita"
+      - family-names: "Isaacs"
+        given-names: "David"
+    year: 2003
+    publisher: "Whole Systems Associates"
+    notes: "Practical framework for transformative questioning in organizational contexts"
+  - type: book
+    title: "Dialogue: The Art of Thinking Together"
+    authors:
+      - family-names: "Isaacs"
+        given-names: "William"
+    year: 1999
+    publisher: "Currency"
+    notes: "Foundation for collaborative inquiry and collective thinking"
+  - type: book
+    title: "Teaching with Questions: A Guide to Creating Student-Centered Classrooms"
+    authors:
+      - family-names: "Rothstein"
+        given-names: "Dan"
+      - family-names: "Santana"
+        given-names: "Luz"
+    year: 2011
+    publisher: "Harvard Education Press"
+    notes: "Practical application of question-based pedagogy in educational settings"
+  - type: article
+    title: "Language Process Theory and Dialectical Thinking"
+    authors:
+      - family-names: "Miura"
+        given-names: "Tsutomu"
+    year: 1967
+    notes: "Eastern philosophical foundation for dialectical inquiry processes"
+preferred-citation:
+  type: software
+  title: "Inquiry Methodology Framework: Transformative Question-Based Learning for AI Age Adaptation"
+  authors:
+    - family-names: "Handa"
+      given-names: "Shinya"
+  year: 2025
+  url: "https://github.com/hand-shinya/inquiry-methodology-framework"
+  notes: "Original framework for transformative question-based learning and practical implementation of advanced thinking methodologies"
+identifiers:
+  - type: url
+    value: "https://github.com/hand-shinya/inquiry-methodology-framework"
+    description: "Source code repository"
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo archive"
+repository: "https://github.com/hand-shinya/inquiry-methodology-framework"
+repository-code: "https://github.com/hand-shinya/inquiry-methodology-framework"
+contact:
+  - family-names: "Handa"
+    given-names: "Shinya"
+    email: "your.email@example.com"
+    affiliation: "Educational Innovation and Transformative Learning Specialist"

@@ -1,0 +1,138 @@
+# Inquiry Methodology Framework - Dependencies
+# Core dependencies for transformative question-based learning and educational innovation
+
+# Data Analysis and Learning Analytics
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Educational Data Mining and Learning Analytics
+scikit-learn>=1.0.0
+statsmodels>=0.13.0
+
+# Natural Language Processing (for question analysis and dialogue processing)
+nltk>=3.6.0
+spacy>=3.4.0
+textblob>=0.17.0
+
+# Educational Visualization and Learning Dashboards
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.3.0
+
+# Network Analysis (for collaborative learning and dialogue mapping)
+networkx>=2.6.0
+
+# Survey and Assessment Tools
+pydantic>=1.8.0
+pandas-profiling>=3.1.0
+
+# Interactive Learning Interfaces
+streamlit>=1.2.0
+jupyter>=1.0.0
+ipython>=7.0.0
+notebook>=6.4.0
+ipywidgets>=7.6.0
+
+# Web Framework (for educational applications)
+flask>=2.0.0
+fastapi>=0.68.0
+
+# Educational Psychology and Cognitive Assessment
+psychopy>=2022.1.0
+
+# Text Analysis and Content Processing
+textstat>=0.7.0
+wordcloud>=1.8.0
+
+# Educational Content Management
+python-docx>=0.8.11
+PyPDF2>=2.10.0
+markdown>=3.3.0
+
+# Collaborative Learning and Communication
+requests>=2.26.0
+
+# Data Validation and Quality (for learning data integrity)
+cerberus>=1.3.0
+marshmallow>=3.13.0
+
+# Time Series Analysis (for learning progress tracking)
+statsforecast>=1.0.0
+
+# Database Management (for learner progress and portfolio data)
+sqlalchemy>=1.4.0
+
+# Educational Gamification and Engagement
+pygame>=2.0.0
+
+# Learning Management Integration
+canvas-api>=0.17.0
+
+# Accessibility and Universal Design
+accessibility-checker>=1.0.0
+
+# Multi-language Support (for global educational contexts)
+googletrans>=3.1.0-alpha
+langdetect>=1.0.9
+
+# Educational Video and Multimedia Processing
+opencv-python>=4.5.0
+moviepy>=1.0.3
+
+# Learning Path Optimization
+networkx>=2.6.0
+graph-tool>=2.43
+
+# Question Generation and Analysis
+transformers>=4.11.0
+torch>=1.9.0
+
+# Educational Research and Evaluation
+pingouin>=0.5.0
+factor-analyzer>=0.4.0
+
+# Testing Framework
+pytest>=6.0.0
+pytest-cov>=2.12.0
+
+# Documentation and Course Material Generation
+sphinx>=4.0.0
+mkdocs>=1.2.0
+mkdocs-material>=7.3.0
+
+# Development Tools
+black>=21.0.0
+flake8>=3.9.0
+mypy>=0.910
+
+# Educational Standards and Metadata
+py-edx-rest-api-client>=1.0.0
+
+# Learning Object Repository Integration
+requests-oauthlib>=1.3.0
+
+# Blockchain for Educational Credentials (future implementation)
+web3>=5.24.0
+
+# Note: Current Inquiry Methodology Framework focuses on transformative learning
+# These dependencies support:
+# - Question generation and analysis for educational contexts
+# - Learning pathway design and personalization
+# - Collaborative dialogue and perspective rotation analysis
+# - Educational assessment and portfolio management
+# - Transformative learning measurement and evaluation
+# - Multi-modal learning content creation and management
+
+# For basic Inquiry Framework functionality, core packages are sufficient
+# Advanced educational features require domain-specific packages based on implementation:
+# - K-12 Education: Focus on age-appropriate interfaces and gamification
+# - Higher Education: Emphasis on research integration and academic rigor  
+# - Corporate Training: Organizational learning and performance measurement
+# - Personal Development: Self-reflection tools and goal tracking
+# - Community Learning: Dialogue facilitation and consensus building
+
+# Integration with Theoretical Ecosystem:
+# - Works seamlessly with AADT for cognitive foundation
+# - Complements CIOP for institutional implementation
+# - Bridges theory and practice for real-world transformation
