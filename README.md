@@ -1,5 +1,5 @@
 # Dialectical Meta-System with Enhanced Quantum Superposition Framework (Handa-AI v6.2)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16909232.svg)](https://doi.org/10.5281/zenodo.16909232)
 ## 🌟 **Shin-Dialectic Ultimate Integration**
 
 A revolutionary thinking framework that transcends traditional dialectical approaches through quantum superposition principles and meta-operational transformations.
@@ -150,3 +150,4 @@ See `/docs` folder for:
 **🎯 Citation**: If you use this framework, please cite using the CITATION.cff metadata while recognizing the inherent tension between technical constraints and theoretical completeness as a productive dialectical moment.
 
 **⚡ Living Framework**: This system evolves through its own application, embodying the dialectical principle that the method transforms through its use.
+
