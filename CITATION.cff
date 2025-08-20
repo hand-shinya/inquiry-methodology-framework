@@ -6,8 +6,9 @@ version: "6.2.0"
 abstract: "A comprehensive dialectical thinking framework integrating Hegelian dialectics with quantum superposition principles, meta-operational layers, and enhanced negation structures for complex problem-solving and creative synthesis. Features simultaneous generation of multiple antitheses, meta-operational transformations, and creative tension utilization for qualitative breakthroughs in theoretical and practical domains."
 license: "MIT"
 authors:
-  - family-names: "Researcher"
-    given-names: "Anonymous"
+  - family-names: "Handa"
+    given-names: "Shinya"
+    email: "handa.shinya@gmail.com"
     affiliation: "Independent Research"
 keywords:
   - dialectical thinking
